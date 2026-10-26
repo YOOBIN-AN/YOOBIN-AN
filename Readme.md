@@ -12,5 +12,5 @@
 | 프로젝트 | 내용 | 담당 |
 |---|---|---|
 | [**블랙박스 주행상황 분석**](https://github.com/YOOBIN-AN/driving-analysis) | 블랙박스 영상 기반 차선 이탈 위험 판단 (해커톤, 2026) | 차선 검출 · Heading · Optical Flow |
-| [**Eye Am Reader**](https://github.com/YOOBIN-AN/eye-am-reader) | 시선 추적형 자동 책장 넘김 장치 (한이음, 2025) | 3D 모델링 · 서보모터 제어 |
+| [**시선 추적 책장 넘김 장치**](https://github.com/YOOBIN-AN/gaze-page-turner) | 시선 추적형 자동 책장 넘김 장치 (한이음, 2025) | 3D 모델링 · 서보모터 제어 |
 | [**스마트 볼라드**](https://github.com/YOOBIN-AN/smart-bollard) | 번호판 인식 기반 주차구역 출입 제어 (임베디드SW경진대회, 2024) | DB 구축 · 연동 |
