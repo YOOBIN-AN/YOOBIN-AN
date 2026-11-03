@@ -48,8 +48,11 @@ License-plate-based parking access control<br>
 ### Education
 
 <table>
-<tr><td><b>Kyungpook National University</b></td><td>B.S. in Electronic Engineering</td><td>2023.03 – present (exp. 2027.08)</td></tr>
-<tr><td><b>Technische Hochschule Ulm, Germany</b></td><td>Exchange Student</td><td>2025.10 – 2026.02</td></tr>
+<tr>
+<td><b>Kyungpook National University</b><br><br><b>Technische Hochschule Ulm, Germany</b></td>
+<td>B.S. in Electronic Engineering<br><br>Exchange Student</td>
+<td>2023.03 – present (exp. 2027.08)<br><br>2025.10 – 2026.02</td>
+</tr>
 </table>
 
 ### Skills
