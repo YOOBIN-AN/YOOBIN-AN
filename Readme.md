@@ -25,7 +25,7 @@ Dashcam-based lane departure risk analysis<br>
 <code>Python</code> <code>OpenCV</code>
 </td>
 <td width="300" valign="top">
-<a href="https://github.com/YOOBIN-AN/gaze-page-turner"><b>Eye Am Reader</b></a><br>
+<a href="https://github.com/YOOBIN-AN/gaze-page-turner"><b>Gaze-based Page Turner</b></a><br>
 <sub>Hanium · 2025 · 3 members</sub>
 <br><br>
 Gaze-controlled page-turning device<br>
