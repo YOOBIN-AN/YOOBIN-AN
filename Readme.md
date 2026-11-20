@@ -16,6 +16,15 @@
 <table>
 <tr>
 <td width="300" valign="top">
+<a href="https://github.com/YOOBIN-AN/squid-game-soc"><b>Squid Game on Zynq SoC</b></a><br>
+<sub>Term Project · 2026 · 2 members</sub>
+<br><br>
+Motion-detection game on Zynq SoC<br>
+<sub>카메라 움직임 검출 기반 무궁화 꽃이 피었습니다 게임</sub>
+<br><br>
+<code>Verilog</code> <code>C</code> <code>Zynq</code>
+</td>
+<td width="300" valign="top">
 <a href="https://github.com/YOOBIN-AN/driving-analysis"><b>Driving Analysis</b></a><br>
 <sub>Hackathon · 2026 · 2 members</sub>
 <br><br>
@@ -24,6 +33,8 @@ Dashcam-based lane departure risk analysis<br>
 <br><br>
 <code>Python</code> <code>OpenCV</code>
 </td>
+</tr>
+<tr>
 <td width="300" valign="top">
 <a href="https://github.com/YOOBIN-AN/gaze-page-turner"><b>Gaze-based Page Turner</b></a><br>
 <sub>Hanium · 2025 · 3 members</sub>
@@ -57,6 +68,8 @@ License-plate-based parking access control<br>
 ![Python](https://img.shields.io/badge/Python-2b3137?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-2b3137?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-2b3137?style=flat-square&logo=cplusplus&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-2b3137?style=flat-square)
+![Vivado](https://img.shields.io/badge/Vivado-2b3137?style=flat-square&logo=amd&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-2b3137?style=flat-square&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-2b3137?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-2b3137?style=flat-square&logo=arduino&logoColor=white)
